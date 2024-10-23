@@ -1,0 +1,14 @@
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\bin\Debug\net8.0\Prototype.Example1.exe
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\bin\Debug\net8.0\Prototype.Example1.deps.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\bin\Debug\net8.0\Prototype.Example1.runtimeconfig.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\bin\Debug\net8.0\Prototype.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\bin\Debug\net8.0\Prototype.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\Prototype.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\Prototype.Example1.AssemblyInfoInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\Prototype.Example1.AssemblyInfo.cs
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\Prototype.Example1.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\Prototype.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\refint\Prototype.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\Prototype.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\Prototype.Example1.genruntimeconfig.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Prototype.Example1\Prototype.Example1\obj\Debug\net8.0\ref\Prototype.Example1.dll

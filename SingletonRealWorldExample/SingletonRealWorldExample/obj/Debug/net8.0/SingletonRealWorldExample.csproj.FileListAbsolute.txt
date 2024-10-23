@@ -1,0 +1,14 @@
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\bin\Debug\net8.0\SingletonRealWorldExample.exe
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\bin\Debug\net8.0\SingletonRealWorldExample.deps.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\bin\Debug\net8.0\SingletonRealWorldExample.runtimeconfig.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\bin\Debug\net8.0\SingletonRealWorldExample.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\bin\Debug\net8.0\SingletonRealWorldExample.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\SingletonRealWorldExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\SingletonRealWorldExample.AssemblyInfoInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\SingletonRealWorldExample.AssemblyInfo.cs
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\SingletonRealWorldExample.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\SingletonRealWorldExample.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\refint\SingletonRealWorldExample.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\SingletonRealWorldExample.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\SingletonRealWorldExample.genruntimeconfig.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\SingletonRealWorldExample\SingletonRealWorldExample\obj\Debug\net8.0\ref\SingletonRealWorldExample.dll

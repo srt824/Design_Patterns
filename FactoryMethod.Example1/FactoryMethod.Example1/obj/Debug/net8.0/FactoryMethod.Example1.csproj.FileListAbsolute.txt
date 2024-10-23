@@ -1,0 +1,14 @@
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.exe
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.deps.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.runtimeconfig.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\bin\Debug\net8.0\FactoryMethod.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.AssemblyInfoInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.AssemblyInfo.cs
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\refint\FactoryMethod.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\FactoryMethod.Example1.genruntimeconfig.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\FactoryMethod.Example1\FactoryMethod.Example1\obj\Debug\net8.0\ref\FactoryMethod.Example1.dll

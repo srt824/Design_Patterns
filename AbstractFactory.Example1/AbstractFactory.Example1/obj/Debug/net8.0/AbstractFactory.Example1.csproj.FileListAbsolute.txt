@@ -1,0 +1,14 @@
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.exe
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.deps.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.runtimeconfig.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\bin\Debug\net8.0\AbstractFactory.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.AssemblyInfoInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.AssemblyInfo.cs
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\refint\AbstractFactory.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\AbstractFactory.Example1.genruntimeconfig.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\AbstractFactory.Example1\AbstractFactory.Example1\obj\Debug\net8.0\ref\AbstractFactory.Example1.dll
