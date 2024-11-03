@@ -3,22 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Singleton.Example1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FF8B475-32A4-4949-BCE4-DCDFAD98A3D9}|..\\Facade.Example1\\Facade.Example1\\Facade.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\facade.example1\\facade.example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FF8B475-32A4-4949-BCE4-DCDFAD98A3D9}|..\\Facade.Example1\\Facade.Example1\\Facade.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\facade.example1\\facade.example1\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FF8B475-32A4-4949-BCE4-DCDFAD98A3D9}|..\\Facade.Example1\\Facade.Example1\\Facade.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\facade.example1\\facade.example1\\speakers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\iclonable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FF8B475-32A4-4949-BCE4-DCDFAD98A3D9}|..\\Facade.Example1\\Facade.Example1\\Facade.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\facade.example1\\facade.example1\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,84 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Title": "HomeTheaterFacade.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\HomeTheaterFacade.cs",
+              "RelativeDocumentMoniker": "..\\Facade.Example1\\Facade.Example1\\HomeTheaterFacade.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\HomeTheaterFacade.cs",
+              "RelativeToolTip": "..\\Facade.Example1\\Facade.Example1\\HomeTheaterFacade.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:59:35.373Z",
+              "WhenOpened": "2024-11-01T02:56:57.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Title": "Speakers.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\Speakers.cs",
+              "RelativeDocumentMoniker": "..\\Facade.Example1\\Facade.Example1\\Speakers.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\Speakers.cs",
+              "RelativeToolTip": "..\\Facade.Example1\\Facade.Example1\\Speakers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:58:32.013Z",
+              "WhenOpened": "2024-11-01T02:55:16.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Title": "Projector.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\Projector.cs",
+              "RelativeDocumentMoniker": "..\\Facade.Example1\\Facade.Example1\\Projector.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\Projector.cs",
+              "RelativeToolTip": "..\\Facade.Example1\\Facade.Example1\\Projector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:56:12.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:49:59.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IClonable.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:48:37.802Z",
+              "WhenOpened": "2024-11-01T02:53:27.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Facade.Example1\\Facade.Example1\\Program.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Facade.Example1\\Facade.Example1\\Program.cs",
+              "RelativeToolTip": "..\\Facade.Example1\\Facade.Example1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:38:53.524Z",
+              "WhenOpened": "2024-11-01T02:48:26.231Z",
               "EditorCaption": ""
             }
           ]

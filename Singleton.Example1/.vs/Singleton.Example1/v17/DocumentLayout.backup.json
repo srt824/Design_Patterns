@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Singleton.Example1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEBD0D9-1832-4168-B9A2-37234B9C963C}|..\\Decorator.Example2\\Decorator.Example2\\Decorator.Example2.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\decorator.example2\\decorator.example2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEBD0D9-1832-4168-B9A2-37234B9C963C}|..\\Decorator.Example2\\Decorator.Example2\\Decorator.Example2.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\decorator.example2\\decorator.example2\\cheesedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEBD0D9-1832-4168-B9A2-37234B9C963C}|..\\Decorator.Example2\\Decorator.Example2\\Decorator.Example2.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\decorator.example2\\decorator.example2\\bacondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEBD0D9-1832-4168-B9A2-37234B9C963C}|..\\Decorator.Example2\\Decorator.Example2\\Decorator.Example2.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\decorator.example2\\decorator.example2\\burgerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEBD0D9-1832-4168-B9A2-37234B9C963C}|..\\Decorator.Example2\\Decorator.Example2\\Decorator.Example2.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\decorator.example2\\decorator.example2\\basicburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18211D04-173E-4EFB-8B8D-378B64CB806F}|..\\Prototype.Example1\\Prototype.Example1\\Prototype.Example1.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\prototype.example1\\prototype.example1\\iclonable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEBD0D9-1832-4168-B9A2-37234B9C963C}|..\\Decorator.Example2\\Decorator.Example2\\Decorator.Example2.csproj|c:\\users\\storr\\desktop\\udemy\\design_patterns\\decorator.example2\\decorator.example2\\iburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,79 +33,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Title": "CheeseDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\CheeseDecorator.cs",
+              "RelativeDocumentMoniker": "..\\Decorator.Example2\\Decorator.Example2\\CheeseDecorator.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\CheeseDecorator.cs",
+              "RelativeToolTip": "..\\Decorator.Example2\\Decorator.Example2\\CheeseDecorator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:59:35.373Z",
+              "WhenOpened": "2024-11-01T02:33:04.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Title": "BaconDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\BaconDecorator.cs",
+              "RelativeDocumentMoniker": "..\\Decorator.Example2\\Decorator.Example2\\BaconDecorator.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\BaconDecorator.cs",
+              "RelativeToolTip": "..\\Decorator.Example2\\Decorator.Example2\\BaconDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:58:32.013Z",
+              "WhenOpened": "2024-11-01T02:30:29.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Title": "BurgerDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\BurgerDecorator.cs",
+              "RelativeDocumentMoniker": "..\\Decorator.Example2\\Decorator.Example2\\BurgerDecorator.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\BurgerDecorator.cs",
+              "RelativeToolTip": "..\\Decorator.Example2\\Decorator.Example2\\BurgerDecorator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:56:12.886Z",
+              "WhenOpened": "2024-11-01T02:26:34.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Shape.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Title": "BasicBurger.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\BasicBurger.cs",
+              "RelativeDocumentMoniker": "..\\Decorator.Example2\\Decorator.Example2\\BasicBurger.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\BasicBurger.cs",
+              "RelativeToolTip": "..\\Decorator.Example2\\Decorator.Example2\\BasicBurger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:49:59.514Z",
+              "WhenOpened": "2024-11-01T02:25:00.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IClonable.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\IClonable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Title": "IBurger.cs",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\IBurger.cs",
+              "RelativeDocumentMoniker": "..\\Decorator.Example2\\Decorator.Example2\\IBurger.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\IBurger.cs",
+              "RelativeToolTip": "..\\Decorator.Example2\\Decorator.Example2\\IBurger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:48:37.802Z",
+              "WhenOpened": "2024-11-01T02:23:48.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "RelativeToolTip": "..\\Prototype.Example1\\Prototype.Example1\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Decorator.Example2\\Decorator.Example2\\Program.cs",
+              "ToolTip": "C:\\Users\\storr\\Desktop\\Udemy\\Design_Patterns\\Decorator.Example2\\Decorator.Example2\\Program.cs",
+              "RelativeToolTip": "..\\Decorator.Example2\\Decorator.Example2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:38:53.524Z",
+              "WhenOpened": "2024-11-01T02:22:25.587Z",
               "EditorCaption": ""
             }
           ]

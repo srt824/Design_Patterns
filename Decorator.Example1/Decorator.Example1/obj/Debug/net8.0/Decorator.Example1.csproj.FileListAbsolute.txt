@@ -1,0 +1,15 @@
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\bin\Debug\net8.0\Decorator.Example1.exe
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\bin\Debug\net8.0\Decorator.Example1.deps.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\bin\Debug\net8.0\Decorator.Example1.runtimeconfig.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\bin\Debug\net8.0\Decorator.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\bin\Debug\net8.0\Decorator.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.AssemblyInfoInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.AssemblyInfo.cs
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.sourcelink.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\refint\Decorator.Example1.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\Decorator.Example1.genruntimeconfig.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Decorator.Example1\Decorator.Example1\obj\Debug\net8.0\ref\Decorator.Example1.dll

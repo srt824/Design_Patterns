@@ -1,0 +1,15 @@
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\bin\Debug\net8.0\Adapter.Example2.exe
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\bin\Debug\net8.0\Adapter.Example2.deps.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\bin\Debug\net8.0\Adapter.Example2.runtimeconfig.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\bin\Debug\net8.0\Adapter.Example2.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\bin\Debug\net8.0\Adapter.Example2.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.AssemblyInfoInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.AssemblyInfo.cs
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.sourcelink.json
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\refint\Adapter.Example2.dll
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.pdb
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\Adapter.Example2.genruntimeconfig.cache
+C:\Users\storr\Desktop\Udemy\Design_Patterns\Adapter.Example2\Adapter.Example2\obj\Debug\net8.0\ref\Adapter.Example2.dll
